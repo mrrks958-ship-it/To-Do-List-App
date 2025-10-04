@@ -41,7 +41,7 @@ This project is a single-file application and requires no installation or build 
 
 Clone the repository:
 
-git clone [https://github.com/rahulchoudhary/dynamic-todo-list-app.git](to-do-list-app-eight-livid.vercel.app)
+git clone [(to-do-list-app-eight-livid.vercel.app)
 
 Navigate to the project directory:
 
